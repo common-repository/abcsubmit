@@ -1,0 +1,42 @@
+iframe.abcsubmit-content-preview {
+    height: calc(100vh - 30px);
+    width:100%;
+    top:0;
+}
+
+.abcsubmit-full-screen {
+    position: fixed;
+    left: 0;
+    z-index: 9999999999999;
+    top: 0;
+    bottom: 0;
+    height: 100vh;
+    width: 100%;
+    display: block;
+    background-color: white;
+}
+
+.abcsubmit-header-in-full-screen {
+    background-color: #1a1a1f;
+    height: 30px;
+}
+
+.abcsubmit-header-in-full-screen-close {
+    float: right;
+    color: white;
+    padding: 5px 10px;
+    cursor: pointer;
+}
+.abcsubmit-header-in-full-screen-name {
+    float: left;
+    color: white;
+    padding: 5px 10px;
+}
+
+.load-builder {
+    margin-left: 30px;
+}
+
+iframe.abcsubmit-content-long {
+    height: 2500px!important;
+}

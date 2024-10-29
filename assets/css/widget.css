@@ -1,0 +1,87 @@
+.abcsubmit-media-logo-image {
+    width:18px;
+    height:18px;
+    padding: 0px 2px 4px 0px!important;
+}
+
+.abc-document-row {
+    display: inline-flex;
+    width: 90%;
+}
+
+.abcsubmit-column-document {
+    vertical-align: middle;
+    padding: 5px;
+    font-size: 14px;
+    margin-left: 10px;
+    margin-top: 5px;
+}
+
+.abc_publish_document_lightbox,
+.abc_publish_document_js {
+    background-color: #00d95a;
+    color: white;
+    border: transparent;
+    cursor: pointer;
+    padding: 5px 10px 5px 10px;
+    border-radius: 3px;
+    width: 200px;
+}
+
+#abcsubmit-login-dialog #abcsubmit-login-button {
+    padding: 5px 10px;
+    background-color: #0000ff;
+    color: white;
+    border: 1px solid #0000ff;
+    border-radius: 3px;
+}
+
+#abcsubmit-login-dialog #abcsubmit-cancel-login-button {
+    padding: 5px 10px;
+    background-color: #48444cb8;
+    color: white;
+    border: 1px solid #48444cb8;
+    border-radius: 3px;
+}
+
+#abcsubmit-select-document-to-insert {
+    width: 150px;
+}
+
+#abcsubmit-login-dialog > form {
+    text-align: center;
+    padding: 20px;
+}
+
+#abcsubmit-login-dialog > form > .abcsubmit-user-div {
+    padding: 20px 20px 0px 20px;
+}
+
+#abcsubmit-login-dialog > form > .abcsubmit-password-div {
+    padding: 20px 20px 0px 20px;
+}
+
+#abcsubmit-login-dialog > form > .abcsubmit-actions-div {
+    padding: 20px 20px 20px 20px;
+}
+
+#abcsubmit-login-dialog > form > #abcsubmit-login-button,
+#abcsubmit-login-dialog > form > #abcsubmit-cancel-login-button {
+    padding: 2px;
+}
+
+#abcsubmit-login-dialog > form > #abcsubmit-cancel-login-button {
+    margin-left: 20px;
+}
+
+#abcsubmit-login-dialog > form > div > input {
+    height: 30px;
+    border-radius: 3px;
+}
+
+#abcsubmit-login-dialog > form > div > label {
+    display: inline-block;
+    padding: 0px 0px 10px 0px;
+    width: 68px;
+    float: left;
+}

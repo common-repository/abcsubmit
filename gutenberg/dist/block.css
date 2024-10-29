@@ -1,0 +1,47 @@
+.abcsubmit-inspector-trigger {
+  bottom: 0;
+  left: 0;
+  position: absolute;
+  right: 0;
+  top: 0; }
+
+.abcsubmit-inspector-trigger-text {
+  padding: 10px;
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 50%;
+  height: auto;
+  background-color: #0085ba;
+  width: 300px;
+  color: #ffffff;
+  font-size: 20px;
+  border-radius: 5px;
+  font-family: sans-serif;
+  display: none;
+  cursor: context-menu; }
+
+.wp-block-abc-gutenberg-abcsubmit:hover .abcsubmit-inspector-trigger-text {
+  display: block !important; }
+
+.abcsubmit-gutenberg-margin-top-29 {
+  margin-bottom: 30px; }
+
+.abcsubmit-button-margin-left {
+  margin-left: 5px; }
+
+.margin-top-5 {
+  margin-top: 5px; }
+
+.display-flex {
+  display: -ms-flexbox;
+  display: flex;
+  -ms-flex-direction: unset;
+      flex-direction: unset; }
+
+.button-on-the-right-side {
+  margin-top: 22.5px;
+  margin-left: 4px; }
+
+@media (min-width: 600px) {
+  .abcsubmit-iframe-in-modal-component {
+    transform: none !important; } }
